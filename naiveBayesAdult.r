@@ -1,5 +1,4 @@
-getwd()
-setwd("D:\\dataMinig\\r\\udemy\\temel\\NaiveBayes")
+
 data=read.csv("adult.csv")
 str(data)
 #na degerlerinin toplami
